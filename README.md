@@ -21,7 +21,7 @@ C:\Users\taftss\Desktop\RidHijacking.exe
 ```
 
 
-![Attack With Local Admin Privileges](https://raw.githubusercontent.com/taftss/SharpRID/main/SharpRID%20PoC.gif?token=GHSAT0AAAAAABQ4OOACRPTUS4H3FDEMIYVMYT3SGLQ)
+![Attack With Local Admin Privileges](https://github.com/taftss/SharpRID/blob/master/SharpRID-PoC.gif)
 
 
 ### What is Windows RID?
