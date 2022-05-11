@@ -2,7 +2,7 @@
 SharpRID, Automated Windows Guest Account RID Hijacking tools for Windows Client. To perform the attack, it will be sufficient to run the tool with system privileges.
 
 
-![Attack With Local Admin Privileges](https://raw.githubusercontent.com/taftss/SharpRID/main/Screenshot_40.png?token=GHSAT0AAAAAABQ4OOACHSBBTUYCVA2WBZYEYT3SIKQ)
+![Attack With Local Admin Privileges](https://github.com/taftss/SharpRID/blob/master/Screenshot_40.png)
 
 
 ## Usage
